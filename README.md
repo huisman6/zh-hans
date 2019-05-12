@@ -8,7 +8,7 @@
 
 ## 书籍生成
 
-基于Gitbook + Markdwon 来生成电子书籍。
+基于Gitbook + Markdwon 来生成电子书籍，排版请参考：[中文文档排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)。
 
 如果需要在本地预览以及生成PDF，则需要安装 Gitboook 和 Calibre Ebook Converter，请参考下文。
 
@@ -91,3 +91,5 @@ A good cover should respect the following guidelines:
 
 * [常见Logo搜索](https://www.vectorlogo.zone/search.html)
 * [常见ICON搜索](http://www.iconfont.cn/search/index?searchType=icon)
+* [GitBook Reference](https://toolchain.gitbook.com/)
+* [网友Gitbook入门指南](http://gitbook.zhangjikai.com)

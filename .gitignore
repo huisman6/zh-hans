@@ -1,0 +1,9 @@
+.idea
+/.*
+.*
+/*/.*
+_book
+/*/_book
+/*/node_modules
+*.iml
+*.pdf
