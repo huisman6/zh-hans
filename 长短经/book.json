@@ -1,0 +1,33 @@
+{
+	"title": "赵蕤 - 长短经",
+	"styles": {
+	 "website": "/styles/website.css"
+	},
+	"plugins": [
+		"highlight",
+		"livereload",
+		"search",
+		"alerts",
+		"include-csv",
+		"theme-comscore",
+		"back-to-top-button",
+		"expandable-chapters",
+		"etoc",
+		"code2",
+		"baidu-tongji",
+		"fontsettings",
+		"lunr",
+		"sharing"
+	],
+	"pluginsConfig": {
+		"theme-default": {
+			"showLevel": false
+		},
+		"lunr": {
+            "maxIndexSize": 50000000
+        },
+        "baidu-tongji": {
+            "token": "5acbbe8d94975e4d7cfbba34d5197285"
+        }
+	}
+}

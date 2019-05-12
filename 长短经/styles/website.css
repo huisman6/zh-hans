@@ -1,0 +1,219 @@
+#csv-oauth-domain-table {
+	overflow-x: auto;
+}
+
+#csv-oauth-domain-table table {
+	width: 130%;
+}
+
+#csv-oauth-domain-table table th {
+	text-align: left;
+}
+
+#csv-oauth-domain-table table tr th:nth-child(1) {
+	width: 100px;
+}
+
+#csv-oauth-domain-table table tr th:nth-child(2) {
+	width: 120px;
+}
+
+#csv-oauth-domain-table table tr th:nth-child(3) {
+	width: 230px;
+}
+
+#csv-oauth-domain-table table tr th:nth-child(4) {
+	width: 230px;
+}
+
+#csv-oauth-domain-table table tr th:nth-child(5) {
+	width: 200px;
+}
+
+#csv-oauth-header-table {
+	overflow-x: auto;
+}
+
+#csv-oauth-header-table table {
+	width: 130%;
+}
+
+#csv-oauth-header-table table th {
+	text-align: left;
+}
+
+#csv-oauth-header-table table tr th:nth-child(1) {
+	width: 200px;
+}
+
+#csv-oauth-header-table table tr th:nth-child(2) {
+	width: 300px;
+}
+
+#csv-oauth-bizcode-table {
+	overflow-x: auto;
+}
+
+#csv-oauth-bizcode-table table {
+	width: 130%;
+}
+
+#csv-oauth-bizcode-table table th {
+	text-align: left;
+}
+
+#csv-oauth-bizcode-table table tr th:nth-child(1) {
+	width: 120px;
+}
+
+#csv-oauth-bizcode-table table tr th:nth-child(2) {
+	width: 300px;
+}
+
+
+/*kafka csv table*/
+#csv-kafka-table {
+	overflow-x: auto;
+}
+
+#csv-kafka-table table {
+	width: 200%;
+}
+
+#csv-kafka-table table th {
+	text-align: left;
+}
+
+#csv-kafka-table table tr th:nth-child(1) {
+	width: 250px;
+}
+
+#csv-kafka-table table tr th:nth-child(2) {
+	width: 200px;
+}
+
+#csv-kafka-table table tr th:nth-child(3) {
+	width: 400px;
+}
+
+/*redis csv table*/
+#csv-redis-table {
+	overflow-x: auto;
+}
+
+#csv-redis-table table {
+	width: 200%;
+}
+
+#csv-redis-table table th {
+	text-align: left;
+}
+
+#csv-redis-table table tr th:nth-child(1) {
+	width: 300px;
+}
+
+#csv-redis-table table tr th:nth-child(2) {
+	width: 100px;
+}
+
+#csv-redis-table table tr th:nth-child(3) {
+	width: 200px;
+}
+
+/*csv-config-server*/
+#csv-config-server-table {
+	overflow-x: auto;
+}
+
+#csv-config-server-table table {
+	width: 130%;
+}
+
+#csv-config-server-table table th {
+	text-align: left;
+}
+
+#csv-config-server-table table tr th:nth-child(1) {
+	width: 110px;
+}
+
+#csv-config-server-table table tr th:nth-child(2) {
+	width: 110px;
+}
+
+#csv-config-server-table table tr th:nth-child(3) {
+	width: 230px;
+}
+
+/*wework csv table*/
+#csv-wework-table {
+	overflow-x: auto;
+}
+
+#csv-wework-table table {
+	width: 200%;
+}
+
+#csv-wework-table table th {
+	text-align: left;
+}
+
+#csv-wework-table table tr th:nth-child(1) {
+	width: 200px;
+}
+
+#csv-wework-table table tr th:nth-child(2) {
+	width: 120px;
+}
+
+#csv-wework-table table tr th:nth-child(3) {
+	width: 200px;
+}
+
+div.section{
+	margin-left:20px;
+	display:flex;
+	flex-wrap: wrap;
+	align-content: center;
+}
+
+div.item{
+	width:230px;
+	max-width:230px;
+	margin-bottom: 24px;
+	margin-right: 16px;
+}
+
+div.item img{
+	width:48px;
+	height:48px;
+	margin-right:12px;
+	vertical-align: middle;
+}
+div.item a{
+	display: inline-block;
+}
+
+/*icon来源： http://www.iconfont.cn/search/index?searchType=icon */
+div.item a.new {
+	padding-right: 32px;
+	background: url(/styles/images/chinese-new.svg) no-repeat right 0;
+	background-size: 32px 32px;
+}
+
+div.simple{
+	width:auto;
+}
+
+div.simple img{
+	height:60px;
+	width:auto;
+}
+
+
+.markdown-section table {
+	table-layout: fixed;
+	display: block;
+	overflow-x: auto;
+}
