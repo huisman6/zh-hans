@@ -2,7 +2,7 @@
 
 ## 资料来源
 
-资料来源自：[维基文库](https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5)
+资料源自：[维基文库](https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5)
 
 本仓库主要负责基于文库生成各种PDF/MOBI格式的书籍。
 
